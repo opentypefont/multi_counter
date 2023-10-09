@@ -14,7 +14,7 @@ class App extends StatelessWidget {
       title: "Multi Counter",
       theme: ThemeData(
         useMaterial3: true,
-        colorScheme: const ColorScheme.dark(primary: Colors.blueAccent),
+        colorScheme: const ColorScheme.dark(primary: Colors.white),
       ),
       home: const HomeScreen(),
     );
