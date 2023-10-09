@@ -4,4 +4,4 @@ Simple counter application
 
 ## Video
 
-https://raw.githubusercontent.com/opentypefont/multi_counter/main/assets/example.mp4
+https://youtu.be/BYEWI6LVqFA?si=0BBjNwOnxQrKN0h_
